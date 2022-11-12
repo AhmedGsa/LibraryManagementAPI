@@ -13,11 +13,11 @@ don't forget to add .env file containe the MONGO_URI, PORT, JWT_SECRET, JWT_LIFE
 - Register new user / login to existing user
 - Authentication using JsonWebToken
 
-### Admin
+##### Admin
 - Add new Books to the library
 - Delete Books from the library
 
-### User
+##### User
 - Check all existing books in the library
 - Borrow books from the library
 
